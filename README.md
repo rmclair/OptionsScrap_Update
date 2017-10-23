@@ -1,7 +1,7 @@
 # OptionsScrap_Update
 ##REQUIREMENTS##
 
-Modules: Pandas, NumPy, Requests
+Modules: Pandas, NumPy, Requests, Matplotlib
 
 ##Notebooks##
 
@@ -17,5 +17,9 @@ Optimize_Finance_Data2D
 
 Extends the Organize_Finance_Data notebook to weight the differnt factors while using the existing .csv files
 
+Plot_CompareFinance
 
-Updates to the original Options Scrapping notebook.  Includes two additional notebooks for processing .csv data.
+Includes several examples of plotting data in .csv files
+
+
+Updates to the original Options Scrapping notebook.  Includes two additional notebooks for processing .csv data, and a notebook with examples of plotting .csv data.
