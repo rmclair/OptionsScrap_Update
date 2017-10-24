@@ -1,7 +1,7 @@
 # OptionsScrap_Update
 ##REQUIREMENTS##
 
-Modules: Pandas, NumPy, Requests, Matplotlib
+Modules: Pandas, NumPy, Os, Requests, Matplotlib, Seaborne
 
 ##Notebooks##
 
